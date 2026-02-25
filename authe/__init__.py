@@ -12,7 +12,7 @@ from authe.client import AutheClient
 from authe.config import AutheConfig
 from authe.instrumentor import Instrumentor
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __all__ = ["init", "get_client"]
 
 # Global client instance
